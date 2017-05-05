@@ -37,10 +37,10 @@ const app = new Vue({
 		postlist: [
 			// constructed Post item
 			new Post(
-				'First Post! Yay!', 		// this is the TITLE place in the class
-				'https://google.com',	// this is the LINK place in the class
+				'Cleveland Cavaliers', 		// this is the TITLE place in the class
+				'https://www.youtube.com/watch?v=hc8T3WmXy8Y',	// this is the LINK place in the class
 				'An Author',			// this is the AUTHOR place in the class
-				'https://unsplash.it/200',	// this is the IMAGE place in the class
+				'cleveland-cavs-logo-header.jpg',	// this is the IMAGE place in the class
 				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
 				),
 
