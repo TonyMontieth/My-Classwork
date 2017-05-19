@@ -39,41 +39,41 @@ const app = new Vue({
 			new Post(
 				'Cleveland Cavaliers', 		// this is the TITLE place in the class
 				'https://www.youtube.com/watch?v=hc8T3WmXy8Y',	// this is the LINK place in the class
-				'An Author',			// this is the AUTHOR place in the class
-				'cleveland-cavs-logo-header.jpg',	// this is the IMAGE place in the class
-				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
+				'Anthony Montieth',			// this is the AUTHOR place in the class
+				'cc.jpg',	// this is the IMAGE place in the class
+				'Key Players: LeBron James, Kyrie Irving, Kevin Love' // this is the BODY place in the class
 				),
 
 			new Post(
-				'Second Post: Lorem',
-				'https://vuejs.org',
-				'Sammie Author',
-				'img-200.jpg', // this is a local image in the same folder as the js script
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
+				'Golden Sate Warriors',
+				'https://www.youtube.com/watch?v=5F2eLoN1wH0',
+				'Anthony Montieth',
+				'Unknown.png', // this is a local image in the same folder as the js script
+				'Key Players: Stephen Curry, Kevin Durant, Klay Thompson' // this is the BODY place in the class
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
-				'Bob Author',
-				'https://unsplash.it/200',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'San Antonio Spurs',
+				'https://www.youtube.com/watch?v=QcOrubGf65E',
+				'Anthony Montieth',
+				'SAS.png',
+				'Key Players without Kawhi and Tony: LaMarcus Aldridge, Jonathon Simmons, Danny Green'
 				),
 
 			new Post(
-				'Another Post: promptly judged',
-				'https://vuejs.org',
-				'Jane Author',
-				'https://unsplash.it/200',
-				'We promptly judged antique ivory buckles for the next prize.'
+				'Boston Celtics',
+				'https://www.youtube.com/watch?v=cX4J-nMO9rE',
+				'Anthony Montieth',
+				'BC.jpg',
+				'Key Players: Isaiah Thomas, Kelly Olynyk, Al Horford'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'#',
-				'Jaded zombies acted quaintly but kept driving their oxen forward.'
+				'Repeat of 2015 2016 NBA Finals?',
+				'https://www.youtube.com/watch?v=UXRPFjpS7T8',
+				'Anthony Montieth',
+				'images.jpeg',
+				'If there is a repeat, I think the Warriors will win, especially now that they have Durant'
 				)
 		]
 	},
