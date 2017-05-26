@@ -41,7 +41,7 @@ const app = new Vue({
 				'https://www.youtube.com/watch?v=hc8T3WmXy8Y',	// this is the LINK place in the class
 				'Anthony Montieth',			// this is the AUTHOR place in the class
 				'cc.jpg',	// this is the IMAGE place in the class
-				'Key Players: LeBron James, Kyrie Irving, Kevin Love' // this is the BODY place in the class
+				'The Cleveland Cavaliers have beaten the Boston Celtics in 5 games. LeBron James passed Michael Jordan in the all time scoring list in the playoffs with 5,995 points. The first two series the Cavs swept (Pacers and Raptors) and only lost once to the Celtics before taking them to town on game 5. Cleveland has been here before, momentum going into the Finals healthy, but can they really defeat their biggest rivals of the 21 century. ' // this is the BODY place in the class
 				),
 
 			new Post(
@@ -49,7 +49,7 @@ const app = new Vue({
 				'https://www.youtube.com/watch?v=5F2eLoN1wH0',
 				'Anthony Montieth',
 				'Unknown.png', // this is a local image in the same folder as the js script
-				'Key Players: Stephen Curry, Kevin Durant, Klay Thompson' // this is the BODY place in the class
+				'The Golden State Warriors are 12-0 heading into the 2017 NBA finals by sweeping the Portland, Jazz, and the Spurs. They are the first team in NBA history to start the playoffs 12-0 heading into the finals, and Im not surprised at all. ' // this is the BODY place in the class
 				),
 
 			new Post(
